@@ -1,5 +1,5 @@
 # bck_g
-#Bash scripts to change wallpapers in numeric order (jpg file name)
+Bash scripts to change wallpapers in numeric order (jpg file name)
 
 ## Example
 
