@@ -12,10 +12,10 @@
 
  - "bck2.sh" will change the current wallpaper to the folowing one in numeric order and "bck3.sh" will change the current wallpaper to the previous one.  
 
- - "bck.sh" change your current wallpaper to a random one
-
  - Consider running script "bck2.sh" and "bck3.sh" with choosen keyboard keys using xbindkeys or other.
 
  - "yup2.txt" contains the wallpaper number, so if you want to directly change your wallpaper to the 9nth for example, write 8 in "yup2.txt" and the run bck2.sh
+
+ - "bck.sh" change your current wallpaper to a random one without changing the number in "yup2.txt"
 
 
