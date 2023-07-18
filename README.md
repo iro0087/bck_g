@@ -1,6 +1,11 @@
 # bck_g
 #Bash scripts to change wallpapers in numeric order (jpg file name)
 
+## Example
+
+![output2](https://github.com/iro0087/bck_g/assets/114911243/63dcd324-58ca-463e-97ad-868e91de8b2d)
+
+
 ## Requirements 
 
 - feh
