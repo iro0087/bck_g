@@ -13,7 +13,7 @@ do
 
 done
 
-rand=$[ RANDOM %24 ]
+rand=$[ RANDOM %$nb_jpg ]
 val=${arr[ $rand ]}
 
 feh --bg-scale $val
